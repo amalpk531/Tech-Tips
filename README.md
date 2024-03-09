@@ -25,7 +25,9 @@ steps...............
 [after this command type the package name of the app you want to delete
 
 
-[eg: 	adb shell pm uninstall --user 0 com.netflix.mediaclient
+[eg: 	
+
+	adb shell pm uninstall --user 0 com.netflix.mediaclient
 
 and hit enter]
 
