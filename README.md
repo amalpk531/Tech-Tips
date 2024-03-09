@@ -38,36 +38,62 @@ and hit enter]
 #-----------------------package names of apps that can be easily removed (realme) -------#
 
  App market➡️ com.heytap.market
+ 
 ▫️ Browser ➡️ com.heytap.browser
+
 ▫️ Music ➡️ com.oppo.music
+
 ▫️ Video ➡️ com.coloros.video
+
 ▫️ Calculator ➡️ com.coloros.calculator
+
 ▫️ File Manager ➡️ com.coloros.filemanager
+
 ▫️ Heytap Account ➡️ com.heytap.usercenter
+
 ▫️ Heytap Cloud ➡️ com.heytap.cloud
+
 ▫️ Game space ➡️ com.coloros.gamespaceui
+
 ▫️ Theme store ➡️ com.heytap.themestore
+
 ▫️ Search box ➡️ com.oppo.quicksearchbox
+
 ▫️ Clone phone ➡️ com.coloros.backuprestore
+
 ▫️ Smart screen ➡️ com.coloros.assistantscreen
+
 ▫️ Oroaming ➡️ com.redteamobile.roaming
+
 ▫️ Compass ➡️ com.coloros.compass2
+
 ▫️ Weather Service ➡️ com.coloros.weather.service
+
 ▫️ Weather ➡️ com.coloros.weather2
 
 #---------------------google apps-------------------------------------------------#
 
 
 ▫️ Chrome ➡️ com.android.chrome
+
 ▫️ Keep notes ➡️ com.google.android.keep
+
 ▫️ Gmail ➡️ com.google.android.gm
+
 ▫️ Google duo ➡️ com.google.android.apps.tachyon
+
 ▫️ Google calendar ➡️ com.google.android.calendar
+
 ▫️ Google play movies ➡️ com.google.android.videos
+
 ▫️ Google photos ➡️ com.google.android.apps.photos
+
 ▫️ Map ➡️ com.google.android.apps.maps
+
 ▫️ Wellbeing ➡️ com.google.android.apps.wellbeing
+
 ▫️ YouTube ➡️ com.google.android.youtube
+
 ▫️ YouTube Music ➡️ com.google.android.apps.youtube.music
 
 
