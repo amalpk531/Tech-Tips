@@ -1,2 +1,2 @@
 # Tech-Tips
-anything related to tech....... 
+How To Remove Ads/Bloatware/Glance Screen from Realme Devices : No root | Uninstall System App
