@@ -6,7 +6,7 @@ steps...............
 4.connect data cable :phone -> pc
 5.type following commands in cmd
 
-#---------------for finding connected device--------------- 
+#---------------for finding connected device-----------------#
 	
 
 		adb devices
